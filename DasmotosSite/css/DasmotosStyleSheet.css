@@ -1,0 +1,47 @@
+h3, p {
+  font-family: Helvetica;
+  text-align: center;
+  max-width: 250px
+  margin:auto;
+}
+
+
+h2 {
+  font-family: Helvetica;
+  font-size: 52px;
+  font-color: white;
+  text-align: center;
+}
+
+.container{
+  width=100%;
+  min-width: 400px;
+  max-width: 1500px;
+  margin:auto;
+}
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.item h2 {
+  color: white;
+  font-size: 32px;
+}
+
+#brush {
+  background-color: MediumSpringGreen;
+}
+
+#frame {
+  background-color: LightCoral;
+}
+
+#paint {
+  background-color: SkyBlue;
+}
+
+.price {
+  color: #663366;
+  font-weight: bold;

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dasmoto's Arts & Crafts</title>
+  <link href="./css/DasmotosCOLUMNStyleSheet.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+  <img src = "./images/DasmotoHeader.jpg" alt="Dasmoto's Arts and Crafts" width=100%"/>
+
+  <div class= "main">
+      <class id="brush">Brushes</brush>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg"
+      alt="Dasmoto's Brush Selection" width="250" height="250" class="center"/>
+      <h3>Hacksaw Brushes</h3>
+      <div class="texbox">
+      <p>Made of the highest quality oak, Hacksaw brushes are known for <br>their weight and ability to
+      hold paint in large amounts. <br><br>Available in different sizes. <br><br>
+      <span class="price">Starting at $3.00 / brush.</span></p></div>
+      </div>
+
+
+
+      <class id="frame">Frames</frame>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg"
+      alt="Dasmoto's Selection of Frames" width=250 height=250 class="center"/>
+      <h3>Art Frames (assorted)</h3>
+      <div class="textbox">
+      <p>Assorted frames made of different material, including MDF, birchwood, and PDE.<br> Select
+      frames can be sanded and painted according to your needs. <br><br>
+      <span class="price">Starting at $2.00 / frame.</span></p>
+    </div>
+
+
+
+      <class id="paint">Paint</paint>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg"
+      alt="Dasmoto's Paints Manurfactured in Finland" width="250" height="250" class="center"/>
+      <h3>Clean Finnish Paint</h3>
+      <div class="textbox">
+       <p>Imported paint from Finland. Over 256 colors available<br> in-store, varying in quantity
+      (1 oz. to 8 oz.). <br><br>Clean Finnish paint microbinds to canvas, increasing the finish <br>and longevity
+     of any artwork.</div><br><br>
+      <span class="price">Starting at $5.00 / tube.</span>
+      </p>
+      </div>
+      </div>
+
+
+
+</div>
+</body>
+</html>
